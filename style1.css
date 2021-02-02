@@ -1,4 +1,7 @@
 
 h1{
-color: blue
+color: blue;
+}
+body{
+  background-color: rgb( 20, 60, 150);
 }
