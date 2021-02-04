@@ -9,3 +9,6 @@ body{
 table{
   width: 60%;
 }
+#banner{
+  position:fixed;
+}
