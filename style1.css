@@ -7,13 +7,14 @@ body{
   font-family:cursive;
 }
 table{
-  width: 95%;
+  width: 80%;
 }
 #banner{
   position:fixed;
   margin-bottom: 20px;
   margin: 0 auto;
   z-index:2;
+  width: 100%;
   
 }
 #content{
