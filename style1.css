@@ -12,8 +12,10 @@ th{
 #banner{
   position:fixed;
   margin-bottom: 20px;
+  
 }
 #content{
   position:relative;
   top:375px;
+  width: 1000px
 }
