@@ -12,8 +12,7 @@ table{
 #banner{
   position:fixed;
   margin-bottom: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   z-index:2;
   
 }
