@@ -6,8 +6,8 @@ body{
   background-color: rgb( 22,170,170);
   font-family:cursive;
 }
-th{
-  width: 50px;
+td{
+  padding: 50px;
 }
 #banner{
   position:fixed;
