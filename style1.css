@@ -24,3 +24,6 @@ table{
   z-index:1;
   text-align: center;
 }
+p{
+  margin: 0 auto;
+}
