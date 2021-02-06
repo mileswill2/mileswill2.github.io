@@ -20,7 +20,7 @@ table{
 #content{
   position:relative;
   top:375px;
-  width: 900px;
+  width: 50%;
   z-index:1;
   text-align: center;
 }
