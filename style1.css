@@ -6,16 +6,12 @@ body{
   background-color: rgb( 22,170,170);
   font-family:cursive;
 }
-table{
-  width: 900px;
-  text-align: center;
-}
 #banner{
   position:fixed;
   margin-bottom: 20px;
   margin: 0 auto;
   z-index:2;
-  width: 95%;
+  width: 100%;
   
 }
 #content{
