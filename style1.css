@@ -8,6 +8,7 @@ body{
 }
 table{
   width: 900px;
+  text-align: center;
 }
 #banner{
   position:fixed;
